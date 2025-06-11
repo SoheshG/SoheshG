@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sohesh G
+# 👋 Hi, I'm Sohesh Gandhe
 
 🎓 3rd Year Computer Engineering Student  
 💡 Passionate about AI, Full-Stack Development & DevOps  
@@ -18,6 +18,17 @@
 
 - 🎓 [**EduTrackX – AI-Powered Self-Study Platform**](https://github.com/SoheshG/EdutrackX)  
   Adaptive learning platform using CrewAI agents and Retrieval-Augmented Generation (RAG) to provide smart study plans, AI guidance, and personalized learning workflows.
+
+- 🌐 [**Portfolio Website**](https://sohesh.netlify.app/)  
+  Personal portfolio showcasing achievements, projects, skills, and resume — built with React, TailwindCSS, Framer Motion, and deployed via Netlify.
+
+## 🛠️ Open Source Contributions
+
+- 🧑‍💻 **Active Contributor during Internship**  
+  Contributed to open-source projects under mentorship, delivering **50+ bug fixes, code enhancements, and documentations**. Worked across multiple repositories with a focus on frontend optimization, backend cleanup, and developer experience.
+- 🔗 [View Contributions](https://github.com/SoheshMG?tab=overview&from=2025-06-01&to=2025-06-11)
+
+![image](https://github.com/user-attachments/assets/07d4df9d-1978-4b6b-9b9f-974c49a2e6f1)
 
 
 ## 📫 Let's Connect
